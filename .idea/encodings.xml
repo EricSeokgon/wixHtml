@@ -3,7 +3,6 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/src/ex3/audio.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/ex3/img.html" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/ex3/list.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/ex3/list_dl.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/ex3/list_ulol.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/ex3/table.html" charset="UTF-8" />
@@ -12,5 +11,6 @@
     <file url="file://$PROJECT_DIR$/src/ex4/video.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/ex5/divLayout.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/ex5/semanric.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ex6/css6_1.html" charset="UTF-8" />
   </component>
 </project>
