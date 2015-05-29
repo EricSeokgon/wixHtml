@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/src/ex3/audio.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/ex3/img.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/ex3/list_dl.html" charset="UTF-8" />
@@ -18,5 +18,6 @@
     <file url="file://$PROJECT_DIR$/src/ex7/css7_1.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/ex7/css7_4.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/ex7/css7_5.html" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
